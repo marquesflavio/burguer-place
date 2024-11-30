@@ -2,6 +2,7 @@ import { DivNavButtons, DivNavIcon, Logo, Nav } from "./HeaderStyle";
 import logo from "../../assets/logo.svg";
 import { FaCartPlus } from "react-icons/fa6";
 import Button from "../Button/Button";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -9,9 +10,9 @@ const Header = () => {
       <Nav>
         <Logo src={logo} alt="Logo do site" />
         <DivNavButtons>
-          <Button>Home</Button>
-          <Button>Order now!</Button>
-          <Button>Contact us</Button>
+          <Link to="/"><Button>Home</Button></Link> 
+          <Link to="/order"> <Button>Order now!</Button></Link> 
+          <Link to="/contact"> <Button>Contact us</Button></Link> 
         </DivNavButtons>
         <DivNavIcon>
           <Button>

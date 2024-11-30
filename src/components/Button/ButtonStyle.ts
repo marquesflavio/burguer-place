@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const StyledButton = styled.button`
-  background-color: #B1AE7B;
+  background-color: #D4AF37;
   color: black;
   border: none;
   min-width: 10rem;
@@ -11,6 +11,6 @@ export const StyledButton = styled.button`
   transition: background-color 0.2s;
 
   &:hover {
-    background-color: #DCD775;
+    background-color: #FF8C00;
   }
 `;

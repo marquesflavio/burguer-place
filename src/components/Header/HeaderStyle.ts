@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
-  background-color: #B1AE7B;
+  background-color: #D4AF37;
   `;
   
   export const Logo = styled.img`
@@ -15,11 +15,19 @@ export const Nav = styled.nav`
 export const DivNavButtons = styled.div`
   display: flex;
   justify-content: center;
-  background-color: red;
+  align-items: center;
 `;
 export const DivNavIcon = styled.div`
   width: 15%;
   display: flex;
   justify-content: space-around;
   gap: 1rem;
+`;
+
+export const AppMain = styled.main`
+  background-color: #dbdbc3;
+  height: 100vh;
+   background-image: url("./src/assets/wallpaper.png");
+  background-size: cover;
+  background-position: bottom;
 `;

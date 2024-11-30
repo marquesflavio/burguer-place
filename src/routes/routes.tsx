@@ -1,13 +1,13 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import App from "../App";
+import Order from "../pages/Order";
 
 function AppRoutes() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<App />} />
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/" element={<App />} />
+      <Route path="/order" element={<Order />} />
+    </Routes>
   );
 }
 
