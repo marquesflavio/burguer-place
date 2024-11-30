@@ -1,0 +1,63 @@
+[
+    {
+      "Id": 1,
+      "Nome": "Classic Burger",
+      "Ingredientes": ["Pão de brioche", "Hambúrguer bovino", "Queijo cheddar", "Alface", "Tomate", "Maionese especial"],
+      "Foto": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "Id": 2,
+      "Nome": "Cheese Bacon",
+      "Ingredientes": ["Pão de brioche", "Hambúrguer bovino", "Queijo cheddar", "Bacon crocante", "Cebola caramelizada", "Molho barbecue"],
+      "Foto": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+    },
+    {
+      "Id": 3,
+      "Nome": "Veggie Delight",
+      "Ingredientes": ["Pão integral", "Hambúrguer de grão-de-bico", "Queijo vegano", "Alface", "Tomate", "Picles", "Molho de ervas"],
+      "Foto": "https://images.unsplash.com/photo-1612874836599-d2703e65cdce"
+    },
+    {
+      "Id": 4,
+      "Nome": "Spicy Burger",
+      "Ingredientes": ["Pão com gergelim", "Hambúrguer de frango picante", "Queijo pepper jack", "Jalapeños", "Alface", "Molho chipotle"],
+      "Foto": "https://images.unsplash.com/photo-1620112005554-017811cf1cfd"
+    },
+    {
+      "Id": 5,
+      "Nome": "Double Trouble",
+      "Ingredientes": ["Pão de brioche", "Dois hambúrgueres bovinos", "Queijo cheddar duplo", "Bacon", "Cebola crispy", "Maionese especial"],
+      "Foto": "https://images.unsplash.com/photo-1568901346514-8680d4e14b88"
+    },
+    {
+      "Id": 6,
+      "Nome": "Chicken Supreme",
+      "Ingredientes": ["Pão com gergelim", "Filé de frango empanado", "Queijo suíço", "Alface", "Tomate", "Molho de mostarda e mel"],
+      "Foto": "https://images.unsplash.com/photo-1608754341820-01d3f1e5d716"
+    },
+    {
+      "Id": 7,
+      "Nome": "Blue Cheese Burger",
+      "Ingredientes": ["Pão de brioche", "Hambúrguer bovino", "Queijo gorgonzola", "Rúcula", "Cebola caramelizada", "Maionese de alho"],
+      "Foto": "https://images.unsplash.com/photo-1571157480374-94d9988dd59b"
+    },
+    {
+      "Id": 8,
+      "Nome": "BBQ Pulled Pork",
+      "Ingredientes": ["Pão de brioche", "Carne suína desfiada ao molho barbecue", "Cebola roxa", "Queijo cheddar", "Coleslaw"],
+      "Foto": "https://images.unsplash.com/photo-1603052879949-969ec420b5cc"
+    },
+    {
+      "Id": 9,
+      "Nome": "Mushroom Melt",
+      "Ingredientes": ["Pão de brioche", "Hambúrguer bovino", "Queijo suíço", "Cogumelos salteados", "Cebola caramelizada", "Molho especial"],
+      "Foto": "https://images.unsplash.com/photo-1606755962779-86a30eebf10d"
+    },
+    {
+      "Id": 10,
+      "Nome": "Crispy Fish Burger",
+      "Ingredientes": ["Pão com gergelim", "Filé de peixe empanado", "Alface", "Tomate", "Molho tártaro"],
+      "Foto": "https://images.unsplash.com/photo-1559561852-579c5cf96b37"
+    }
+  ]
+  

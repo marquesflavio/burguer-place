@@ -3,8 +3,7 @@ import styled from "styled-components";
 export const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  background-color: #f0f0f0;
+  background-color: #B1AE7B;
   `;
   
   export const Logo = styled.img`
@@ -14,10 +13,9 @@ export const Nav = styled.nav`
 `;
 
 export const DivNavButtons = styled.div`
-  width: 35%;
   display: flex;
-  justify-content: space-around;
-  gap: 1rem;
+  justify-content: center;
+  background-color: red;
 `;
 export const DivNavIcon = styled.div`
   width: 15%;
