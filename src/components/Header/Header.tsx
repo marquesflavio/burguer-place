@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <>
       <Nav>
-        <Logo src={logo} alt="Logo do site" />
+      <Link to="/"><Logo src={logo} alt="Logo do site" /></Link> 
         <DivNavButtons>
           <Link to="/"><Button>Home</Button></Link> 
           <Link to="/order"> <Button>Order now!</Button></Link> 

@@ -6,13 +6,13 @@ export const DivOrder = styled.div`
   padding: 1rem;
   margin: 1rem;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: space-between;
   background-color: #b1ae7be4;
   width: 300px;
   min-height: 400px;
   border-radius: 10px;
+
   &:hover {
-    background-color: #FF8C00;
     cursor: pointer;
   }
 `;
